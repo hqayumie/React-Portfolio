@@ -10,7 +10,6 @@ A single page application built up by using React, React icons, HTML, CSS3 and a
 
 
 
-![image](https://user-images.githubusercontent.com/110688175/215964123-9a8b0bf4-35a6-411e-a8b6-c750c5537ea7.png)
 
 
 
